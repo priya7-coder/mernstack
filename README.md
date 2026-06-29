@@ -22,7 +22,7 @@ The MERN stack is a popular JavaScript-based technology stack used to build mode
 
 #Installation:
 1. Clone the repository
-git clone https://github.com/priya7-coder/mernstack.git
+git clone https://github.com/PriyaChaudhary17-coder/mernstack.git
 2.Navigate to the project directory
 cd mernstack
 3.Install dependencies
